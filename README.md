@@ -1,4 +1,3 @@
-# tecnomultimedia
 Pantalla 1
 Imagen: tres cerditos en la puerta de sus respectivas casas una de paja, otra de madera ya lo último una casa de ladrillos, al costado se encuentra un lobo de traje soplando a estos cerditos. Hay un cielo celeste con nubes blancas
 Texto: “En una preciosa casa del bosque vivían tres felices cerditos. Aunque eran hermanos, ellos eran muy distintos entre sí. Y como ya eran mayores, decidieron que era hora de que construyeran cada uno su propia casita.”
@@ -17,8 +16,4 @@ Acción:Se hace de noche( pantalla 6)
 Pantalla 5
 Imagen:Una casa terminada de material, un cerdito adelante con con ladrillos y cemento a lo lado y en su mano una espátula.
 Texto: “El tercer cerdito, el más trabajador de los hermanos, decidió por construirse una casa de ladrillos y cemento. Tardaría mucho más en construirla pero estaría más seguro y protegido. Tras un día entero de mucho trabajo, su casa ha quedado preciosa.”
-Acción: Se hizo de noche(pantalla 6)
-
-Pantalla 6
-Imagen: Un lobo vestido de traje observando y oliendo el aire detrás de un árbol 
-Texto: ”Cuando cada cerdito ya se encontraba en su propia casa, empezaron a oír los aullidos de un lobo. Es que un feroz y hambriento lobo andaba por el bosque, él no tardó mucho para encontrar las dos casitas de los 
+x
